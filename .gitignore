@@ -1,0 +1,6 @@
+# compiled binaries
+warmup/vecadd
+warmup/hello
+*.o
+# Slurm job output
+*.out
